@@ -1,0 +1,8 @@
+# KiCAD
+*-backups/
+fp-info-cache
+
+# Python
+__pycache__/
+*.pyc
+
