@@ -1,6 +1,8 @@
 # KiCAD
 *-backups/
 fp-info-cache
+*.lck
+*.kicad_prl
 
 # Python
 __pycache__/
