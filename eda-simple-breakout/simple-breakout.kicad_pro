@@ -57,21 +57,11 @@
         }
       ],
       "drc_exclusions": [
-        "silk_over_copper|127296894|56807500|8f02ad6e-1d7c-464b-8573-482cd5e08104|00000000-0000-0000-0000-000000000000",
-        "silk_overlap|100400000|67100000|af136cf3-38a3-4cb3-b436-7d7b6a1cbf90|96ef94f5-d516-4dd9-a476-3e81928c361a",
-        "silk_overlap|101700000|70100000|17dbf029-b309-4968-8ecb-cc226b3a27ef|2a375243-c2f5-435d-a1cd-ebaeb0dbcfcf",
-        "silk_overlap|101700000|70700000|17dbf029-b309-4968-8ecb-cc226b3a27ef|75d76a64-807e-4d19-806d-797d03645e1f",
-        "silk_overlap|102300000|72700000|0d5d5834-fd20-48f9-9c22-bdd92fe5a602|e3fdde7e-25b1-46f5-bb5a-82d2ad959c50",
-        "silk_overlap|102300000|73300000|0d5d5834-fd20-48f9-9c22-bdd92fe5a602|81c34749-b2fa-4ee6-a573-b8a99f0582d1",
-        "silk_overlap|121205025|52605025|f07525aa-a33b-4097-b767-cf390de94619|e177d10e-2612-4f66-b49c-5b0ecf7b2230",
-        "silk_overlap|125600000|68500000|f8031966-217e-4edc-a2b0-1e582cee9db4|1ed8fc43-0355-4979-81a3-7518de875d83",
-        "silk_overlap|127700000|72200000|1d5e4794-a71b-4b07-9197-b5dab76ec0cb|d4636534-5930-4c39-81eb-830e0f7fa48c",
-        "silk_overlap|127700000|72200000|981c83c8-238c-46c9-b03b-b6debefe48f6|d4636534-5930-4c39-81eb-830e0f7fa48c",
-        "silk_overlap|97800000|59900000|fc2979ca-60f4-48dd-b15e-5d9461cc2b87|b90f4e87-efc2-4f00-8a3b-b4ba2d2f3460",
-        "silk_overlap|99100000|70100000|bdefab23-b3aa-4fc2-8ca4-5275bac443cc|4ea0e11d-50ce-4ac6-a44f-42f2fc30f09b",
-        "silk_overlap|99100000|70700000|bdefab23-b3aa-4fc2-8ca4-5275bac443cc|b1522539-6eb6-4923-9bf7-706486affcea",
-        "silk_overlap|99100000|72700000|68b9727e-1fcf-4580-b64e-ba8432407dfb|1baf8ff6-42e4-4ac3-8fa5-87e052a766ca",
-        "silk_overlap|99100000|73300000|68b9727e-1fcf-4580-b64e-ba8432407dfb|d231d1f0-68c4-4dbd-a127-74ca1ddb6d04"
+        "extra_footprint|149700000|93600000|294263b9-a816-4c05-8841-bd9226fb3a02|00000000-0000-0000-0000-000000000000",
+        "silk_overlap|167500000|79600000|3c92a46d-1fe3-4029-8ef5-9cdcf2701375|19168237-6628-4f58-9fb9-ef59a98980a3",
+        "silk_overlap|182566667|88720000|70325fb1-4c39-438d-88cc-62bcea20ddeb|60c19464-7082-4f02-87a0-ab1b2d92d7c2",
+        "silk_overlap|183761905|88720000|70325fb1-4c39-438d-88cc-62bcea20ddeb|8a74feaf-5d9b-4c69-b5c5-c58ffeafc3f0",
+        "silk_overlap|186904762|88854819|7b78e7ed-56dd-4499-bd94-c37f4048a986|70325fb1-4c39-438d-88cc-62bcea20ddeb"
       ],
       "meta": {
         "version": 2
@@ -431,7 +421,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "esp12-therm.kicad_pro",
+    "filename": "simple-breakout.kicad_pro",
     "version": 1
   },
   "net_settings": {
