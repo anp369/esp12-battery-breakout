@@ -56,7 +56,13 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|58810000|115648444|c7739fc9-8113-426e-b0c8-b55b069d73fa|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|58810000|115648444|ee6ed125-154c-47a6-8bf4-cf40f5c6e10c|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|77075000|106000000|398b35d5-4202-4f94-90ce-5cd7c1a01ed1|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|77384957|112703197|505de2fc-3d1f-4d5a-b239-a0256f0f9b97|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|77400000|112918282|9d9968b1-20c5-442f-ae53-686ac3b6c4c3|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -121,7 +127,7 @@
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
@@ -506,5 +512,7 @@
       ""
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "VERSION": "2.0"
+  }
 }
