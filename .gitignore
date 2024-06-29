@@ -3,6 +3,8 @@
 fp-info-cache
 *.lck
 *.kicad_prl
+**/bom/
+**/production/
 
 # Python
 __pycache__/
